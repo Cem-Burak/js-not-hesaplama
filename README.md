@@ -1,1 +1,1 @@
-# js-not-hesaplama
+# grade calculation
